@@ -20,5 +20,7 @@ The kmeans algorithm will be employed to cluster the different postal codes base
 
 ## References
 [1] 	Wikipedia, "List of postal codes of Canada: M," 21 September 2020. [Online]. Available: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M. [Accessed 22 October 2020].
+
 [2] 	IBM, "Coordinates," [Online]. Available: https://cocl.us/Geospatial_data. [Accessed 22 October 2020].
+
 [3] 	Foursquare, "Places Data," [Online]. Available: https://developer.foursquare.com/places. [Accessed 13 November 2020].
